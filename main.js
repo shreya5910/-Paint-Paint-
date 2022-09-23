@@ -9,7 +9,7 @@ var last_position_of_x, last_position_of_y;
     width_of_line = 2;
 var width = screen.width;
 new_width = screen.width-50;
-new_height = screen.height-150;
+new_height = screen.height-300;
 if(width < 992)
 {
     document.getElementById("myCanvas").width = new_width;
